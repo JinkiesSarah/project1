@@ -1,6 +1,30 @@
-h1{
-    color: red;
+body{
+    background-color: rgba(68, 169, 176, 0.968);
 }
-h2{
-    color:darksalmon;
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
 }
+
+header{
+    background-color: lightblue;
+    height: 118px;
+}
+
+nav{
+    background-color: lightcoral;
+    height: 40px;
+}
+
+main{
+    background-color: rgba(255, 166, 0, 0.532);
+    height: 400px;
+}
+
+footer{
+    background-color: lightgreen;
+    height: 100px;
+}
+
